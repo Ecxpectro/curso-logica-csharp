@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
