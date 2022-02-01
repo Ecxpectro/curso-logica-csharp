@@ -1,31 +1,32 @@
 ﻿using System;
+using System.Globalization;
 
-namespace programa
+namespace primeiro
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int n, x, y, soma = 0, chng;
+            int n, x, y = 0, chng;
             x = int.Parse(Console.ReadLine());
             n = int.Parse(Console.ReadLine());
-            if ( x > n)
+            if (x > n)
             {
                 chng = x;
                 x = n;
                 n = chng;
-
             }
+           
             
-            for (int i = x; i <= n; i++)
+            for (int i = x + 1; i < n; i++)
             {
-                if ( i % 13 != 0)
+                if (i % 5 == 2 || i % 5 == 3)
                 {
-                    soma += i;
+                    Console.WriteLine(i);
                 }
-
             }
-            Console.WriteLine(soma);
+
+
         }
     }
 }
