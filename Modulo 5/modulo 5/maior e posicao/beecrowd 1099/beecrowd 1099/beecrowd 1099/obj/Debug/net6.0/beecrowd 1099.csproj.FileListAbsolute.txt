@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\bin\Debug\net6.0\beecrowd 1099.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\bin\Debug\net6.0\beecrowd 1099.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\bin\Debug\net6.0\beecrowd 1099.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\bin\Debug\net6.0\beecrowd 1099.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\bin\Debug\net6.0\ref\beecrowd 1099.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\bin\Debug\net6.0\beecrowd 1099.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\beecrowd 1099.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\beecrowd 1099.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\beecrowd 1099.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\beecrowd 1099.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\beecrowd 1099.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\beecrowd 1099.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\ref\beecrowd 1099.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\beecrowd 1099.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\modulo 5\maior e posicao\beecrowd 1099\beecrowd 1099\beecrowd 1099\obj\Debug\net6.0\beecrowd 1099.genruntimeconfig.cache
