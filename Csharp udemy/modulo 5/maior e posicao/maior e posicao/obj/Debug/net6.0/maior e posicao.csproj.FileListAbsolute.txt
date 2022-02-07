@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\bin\Debug\net6.0\maior e posicao.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\bin\Debug\net6.0\maior e posicao.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\bin\Debug\net6.0\maior e posicao.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\bin\Debug\net6.0\maior e posicao.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\bin\Debug\net6.0\ref\maior e posicao.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\bin\Debug\net6.0\maior e posicao.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\maior e posicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\maior e posicao.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\maior e posicao.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\maior e posicao.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\maior e posicao.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\ref\maior e posicao.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\maior e posicao.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\maior e posicao.genruntimeconfig.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Modulo 5\maior e posicao\maior e posicao\obj\Debug\net6.0\maior e posicao.csproj.AssemblyReference.cache
