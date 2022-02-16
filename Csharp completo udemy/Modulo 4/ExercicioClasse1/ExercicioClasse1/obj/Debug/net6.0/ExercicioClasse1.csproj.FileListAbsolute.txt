@@ -1,0 +1,14 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\bin\Debug\net6.0\ExercicioClasse1.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\bin\Debug\net6.0\ExercicioClasse1.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\bin\Debug\net6.0\ExercicioClasse1.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\bin\Debug\net6.0\ExercicioClasse1.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\bin\Debug\net6.0\ref\ExercicioClasse1.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\bin\Debug\net6.0\ExercicioClasse1.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\obj\Debug\net6.0\ExercicioClasse1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\obj\Debug\net6.0\ExercicioClasse1.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\obj\Debug\net6.0\ExercicioClasse1.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\obj\Debug\net6.0\ExercicioClasse1.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\obj\Debug\net6.0\ExercicioClasse1.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\obj\Debug\net6.0\ref\ExercicioClasse1.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\obj\Debug\net6.0\ExercicioClasse1.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 4\ExercicioClasse1\ExercicioClasse1\obj\Debug\net6.0\ExercicioClasse1.genruntimeconfig.cache

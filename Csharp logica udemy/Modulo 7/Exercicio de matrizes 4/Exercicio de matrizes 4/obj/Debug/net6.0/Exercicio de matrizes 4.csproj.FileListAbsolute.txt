@@ -1,0 +1,14 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\bin\Debug\net6.0\Exercicio de matrizes 4.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\bin\Debug\net6.0\Exercicio de matrizes 4.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\bin\Debug\net6.0\Exercicio de matrizes 4.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\bin\Debug\net6.0\Exercicio de matrizes 4.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\bin\Debug\net6.0\ref\Exercicio de matrizes 4.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\bin\Debug\net6.0\Exercicio de matrizes 4.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\obj\Debug\net6.0\Exercicio de matrizes 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\obj\Debug\net6.0\Exercicio de matrizes 4.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\obj\Debug\net6.0\Exercicio de matrizes 4.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\obj\Debug\net6.0\Exercicio de matrizes 4.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\obj\Debug\net6.0\Exercicio de matrizes 4.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\obj\Debug\net6.0\ref\Exercicio de matrizes 4.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\obj\Debug\net6.0\Exercicio de matrizes 4.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\Exercicio de matrizes 4\Exercicio de matrizes 4\obj\Debug\net6.0\Exercicio de matrizes 4.genruntimeconfig.cache

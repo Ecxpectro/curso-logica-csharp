@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\bin\Debug\net6.0\Exercicio de vetores 8.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\bin\Debug\net6.0\Exercicio de vetores 8.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\bin\Debug\net6.0\Exercicio de vetores 8.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\bin\Debug\net6.0\Exercicio de vetores 8.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\bin\Debug\net6.0\ref\Exercicio de vetores 8.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\bin\Debug\net6.0\Exercicio de vetores 8.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\Exercicio de vetores 8.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\Exercicio de vetores 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\Exercicio de vetores 8.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\Exercicio de vetores 8.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\Exercicio de vetores 8.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\Exercicio de vetores 8.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\ref\Exercicio de vetores 8.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\Exercicio de vetores 8.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 6\Exercicio de vetores 8\Exercicio de vetores 8\obj\Debug\net6.0\Exercicio de vetores 8.genruntimeconfig.cache

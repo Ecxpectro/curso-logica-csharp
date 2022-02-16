@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\bin\Debug\net6.0\exercicio 6 matrizes.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\bin\Debug\net6.0\exercicio 6 matrizes.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\bin\Debug\net6.0\exercicio 6 matrizes.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\bin\Debug\net6.0\exercicio 6 matrizes.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\bin\Debug\net6.0\ref\exercicio 6 matrizes.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\bin\Debug\net6.0\exercicio 6 matrizes.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\exercicio 6 matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\exercicio 6 matrizes.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\exercicio 6 matrizes.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\exercicio 6 matrizes.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\exercicio 6 matrizes.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\ref\exercicio 6 matrizes.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\exercicio 6 matrizes.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\exercicio 6 matrizes.genruntimeconfig.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp udemy\Modulo 7\exercicio 6 matrizes\exercicio 6 matrizes\obj\Debug\net6.0\exercicio 6 matrizes.csproj.AssemblyReference.cache
