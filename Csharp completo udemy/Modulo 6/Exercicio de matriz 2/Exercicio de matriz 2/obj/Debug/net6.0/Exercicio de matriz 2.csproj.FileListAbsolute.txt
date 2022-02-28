@@ -1,0 +1,14 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\bin\Debug\net6.0\Exercicio de matriz 2.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\bin\Debug\net6.0\Exercicio de matriz 2.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\bin\Debug\net6.0\Exercicio de matriz 2.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\bin\Debug\net6.0\Exercicio de matriz 2.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\bin\Debug\net6.0\ref\Exercicio de matriz 2.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\bin\Debug\net6.0\Exercicio de matriz 2.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\obj\Debug\net6.0\Exercicio de matriz 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\obj\Debug\net6.0\Exercicio de matriz 2.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\obj\Debug\net6.0\Exercicio de matriz 2.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\obj\Debug\net6.0\Exercicio de matriz 2.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\obj\Debug\net6.0\Exercicio de matriz 2.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\obj\Debug\net6.0\ref\Exercicio de matriz 2.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\obj\Debug\net6.0\Exercicio de matriz 2.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de matriz 2\Exercicio de matriz 2\obj\Debug\net6.0\Exercicio de matriz 2.genruntimeconfig.cache

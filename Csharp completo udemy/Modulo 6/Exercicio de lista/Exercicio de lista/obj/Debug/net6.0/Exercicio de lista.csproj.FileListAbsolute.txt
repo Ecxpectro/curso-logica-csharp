@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\bin\Debug\net6.0\Exercicio de lista.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\bin\Debug\net6.0\Exercicio de lista.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\bin\Debug\net6.0\Exercicio de lista.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\bin\Debug\net6.0\Exercicio de lista.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\bin\Debug\net6.0\ref\Exercicio de lista.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\bin\Debug\net6.0\Exercicio de lista.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\Exercicio de lista.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\Exercicio de lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\Exercicio de lista.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\Exercicio de lista.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\Exercicio de lista.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\Exercicio de lista.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\ref\Exercicio de lista.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\Exercicio de lista.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo 6\Exercicio de lista\Exercicio de lista\obj\Debug\net6.0\Exercicio de lista.genruntimeconfig.cache
