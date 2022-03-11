@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\bin\Debug\net6.0\Projeto_orientado_objeto.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\bin\Debug\net6.0\Projeto_orientado_objeto.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\bin\Debug\net6.0\Projeto_orientado_objeto.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\bin\Debug\net6.0\Projeto_orientado_objeto.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\bin\Debug\net6.0\ref\Projeto_orientado_objeto.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\bin\Debug\net6.0\Projeto_orientado_objeto.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\Projeto_orientado_objeto.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\Projeto_orientado_objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\Projeto_orientado_objeto.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\Projeto_orientado_objeto.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\Projeto_orientado_objeto.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\Projeto_orientado_objeto.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\ref\Projeto_orientado_objeto.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\Projeto_orientado_objeto.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_9\Projeto_orientado_objeto\Projeto_orientado_objeto\obj\Debug\net6.0\Projeto_orientado_objeto.genruntimeconfig.cache
