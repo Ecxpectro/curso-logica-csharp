@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\bin\Debug\net6.0\Exercicio_de_heranca.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\bin\Debug\net6.0\Exercicio_de_heranca.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\bin\Debug\net6.0\Exercicio_de_heranca.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\bin\Debug\net6.0\Exercicio_de_heranca.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\bin\Debug\net6.0\ref\Exercicio_de_heranca.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\bin\Debug\net6.0\Exercicio_de_heranca.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\Exercicio_de_heranca.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\Exercicio_de_heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\Exercicio_de_heranca.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\Exercicio_de_heranca.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\Exercicio_de_heranca.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\Exercicio_de_heranca.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\ref\Exercicio_de_heranca.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\Exercicio_de_heranca.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Exercicio_de_heranca\Exercicio_de_heranca\obj\Debug\net6.0\Exercicio_de_heranca.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\bin\Debug\net6.0\exercicio_heranca_polimorfismo.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\bin\Debug\net6.0\exercicio_heranca_polimorfismo.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\bin\Debug\net6.0\exercicio_heranca_polimorfismo.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\bin\Debug\net6.0\exercicio_heranca_polimorfismo.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\bin\Debug\net6.0\ref\exercicio_heranca_polimorfismo.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\bin\Debug\net6.0\exercicio_heranca_polimorfismo.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\exercicio_heranca_polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\exercicio_heranca_polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\exercicio_heranca_polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\exercicio_heranca_polimorfismo.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\exercicio_heranca_polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\exercicio_heranca_polimorfismo.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\ref\exercicio_heranca_polimorfismo.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\exercicio_heranca_polimorfismo.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\exercicio_heranca_polimorfismo\exercicio_heranca_polimorfismo\obj\Debug\net6.0\exercicio_heranca_polimorfismo.genruntimeconfig.cache
