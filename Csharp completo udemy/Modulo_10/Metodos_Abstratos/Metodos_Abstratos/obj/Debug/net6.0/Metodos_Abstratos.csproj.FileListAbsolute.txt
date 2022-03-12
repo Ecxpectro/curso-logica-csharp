@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\Metodos_Abstratos.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\Metodos_Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\Metodos_Abstratos.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\Metodos_Abstratos.AssemblyInfo.cs
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\Metodos_Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\net6.0\Metodos_Abstratos.exe
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\net6.0\Metodos_Abstratos.deps.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\net6.0\Metodos_Abstratos.runtimeconfig.json
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\net6.0\Metodos_Abstratos.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\net6.0\ref\Metodos_Abstratos.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\bin\Debug\net6.0\Metodos_Abstratos.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\Metodos_Abstratos.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\ref\Metodos_Abstratos.dll
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\Metodos_Abstratos.pdb
+C:\Users\Henrique\source\ws-vs2022\Curso Logica c#\Csharp completo udemy\Modulo_10\Metodos_Abstratos\Metodos_Abstratos\obj\Debug\net6.0\Metodos_Abstratos.genruntimeconfig.cache
