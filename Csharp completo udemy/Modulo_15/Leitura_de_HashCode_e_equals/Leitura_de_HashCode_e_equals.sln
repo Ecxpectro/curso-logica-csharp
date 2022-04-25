@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leitura_de_HashCode_e_equals", "Leitura_de_HashCode_e_equals\Leitura_de_HashCode_e_equals.csproj", "{19AB593E-E5BC-4A8E-A11D-FC64B840DBF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19AB593E-E5BC-4A8E-A11D-FC64B840DBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AB593E-E5BC-4A8E-A11D-FC64B840DBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AB593E-E5BC-4A8E-A11D-FC64B840DBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AB593E-E5BC-4A8E-A11D-FC64B840DBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F88480E4-7347-43C3-A97B-719E393C80EF}
+	EndGlobalSection
+EndGlobal
